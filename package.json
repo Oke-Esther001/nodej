@@ -1,0 +1,14 @@
+{
+  "name": "node-jan",
+  "version": "1.0.0",
+  "description": "This is all about what Kehnieeeee wants to do",
+  "main": "index.js",
+  "scripts": {
+    "test": "/"
+  },
+  "author": "Kehnieeeee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
